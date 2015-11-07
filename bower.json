@@ -1,0 +1,6 @@
+{
+  "name": "D3 Black Hole",
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}
